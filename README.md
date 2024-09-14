@@ -5,7 +5,7 @@ A straightforward padhack to convert 1 x standard usb gamepad into 4 x paddles f
 ## Introduction
 While exploring the list of games that make use of the paddle controller, I came across Atari's Warlords arcade game (https://en.wikipedia.org/wiki/Warlords_(1980_video_game) which included support for up 4 players using paddles.   I was keen to see if I could cheaply make a 4 player set of paddles version using a single PCB from a modern gamepad.
 
-The original Paddle controllers used on Atari 2600 / C64 and older arcade games are fairly basic, typically using just a potentiometer (1M Ohm for an Atari) and a few wires to connect microswitches for buttons.   Feedback on converting them to use on modern PCs is a bit mixed.
+The original Paddle controllers used on Atari 2600 / C64 and older arcade games are fairly basic, typically using just a potentiometer (1M Ohm for an Atari) and a few wires to connect microswitches for buttons.   My experience on converting them to use on modern PCs is a bit mixed (they sort of work ok but not that well) - other experiences found online suggest similar.
 
 ![image](https://github.com/user-attachments/assets/f275eff4-ab17-409e-a38b-a51df1fd880c)
 ![image](https://github.com/user-attachments/assets/28b7070e-184c-4c70-a7d6-4d0b61cfb6fd)
