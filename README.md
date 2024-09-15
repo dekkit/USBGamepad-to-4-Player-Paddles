@@ -22,6 +22,9 @@ This project's goal was to remove the smaller 10k pots on the gamepad PCB and re
 
 While this project requires no coding / programming skills, as with all padhacks, you will need basic soldering skills.
 
+### MAME / other emulators
+Make sure to set joystick deadzone = 0  (in mame.ini or via the mame menu)
+This will help to ensure smooth gameplay.
 
 ### Parts List
 - 4 x 10k Pots (Linear B)
